@@ -377,3 +377,6 @@ footer {
     font-size: calc(var(--base-font) * 1.5);
   }
 }
+.drag{
+  opacity: 0.5;
+}
